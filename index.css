@@ -165,7 +165,7 @@ body {
 }
 .social:hover { 
     cursor: pointer;
-    color:rgb(255, 50, 50);
+    color:rgb(0,255,127);
 }
 .container {
     width:90vw;
