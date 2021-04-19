@@ -20,14 +20,14 @@ var pJS = function(tag_id, params){
     },
     particles: {
       number: {
-        value: 400,
+        value: 600,
         density: {
           enable: true,
           value_area: 800
         }
       },
       color: {
-        value: '#fff'
+        value: '#0000ff'
       },
       shape: {
         type: 'circle',
@@ -49,7 +49,7 @@ var pJS = function(tag_id, params){
         random: false,
         anim: {
           enable: false,
-          speed: 2,
+          speed: 1,
           opacity_min: 0,
           sync: false
         }
@@ -73,7 +73,7 @@ var pJS = function(tag_id, params){
       },
       move: {
         enable: true,
-        speed: 2,
+        speed: 1,
         direction: 'none',
         random: false,
         straight: false,
